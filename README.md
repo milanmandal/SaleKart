@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# Sale Kart eCommerce Platform
 
 ## Features
 
